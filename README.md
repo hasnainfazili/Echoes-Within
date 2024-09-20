@@ -113,3 +113,5 @@ We welcome feedback and contributions! Here’s how you can contribute to *Echoe
 For more information, feel free to reach out:  
 **Email:** [gamedev.hasnain@gmail.com](mailto:gamedev.hasnain@gmail.com)  
 **LinkedIn:** [Hasnain Fazili](https://www.linkedin.com/in/hasnain-fazili-ba6bb521a/)
+**Read the Design Doc :** [Echoes Within](https://docs.google.com/document/d/1FWYVFIIvh5hrRfXFHjIlUXx5UujOWuiVUTVXXQTy3yc/)
+
