@@ -3,6 +3,7 @@
 ### *A Journey Through Memory, Emotion, and Self-Discovery*
 **Desgined by Samia Afzal:** [samiaafzal.gameart@proton.me](mailto:samiaafzal.gameart@proton.me)  
 **All Concept Art and 3D by Samia Afzal:** [samiaafzal.gameart@proton.me](mailto:samiaafzal.gameart@proton.me)  
+**Read the Design Doc :** [Echoes Within](https://docs.google.com/document/d/1FWYVFIIvh5hrRfXFHjIlUXx5UujOWuiVUTVXXQTy3yc/)
 
 ---
 
@@ -113,5 +114,4 @@ We welcome feedback and contributions! Here’s how you can contribute to *Echoe
 For more information, feel free to reach out:  
 **Email:** [gamedev.hasnain@gmail.com](mailto:gamedev.hasnain@gmail.com)  
 **LinkedIn:** [Hasnain Fazili](https://www.linkedin.com/in/hasnain-fazili-ba6bb521a/)
-**Read the Design Doc :** [Echoes Within](https://docs.google.com/document/d/1FWYVFIIvh5hrRfXFHjIlUXx5UujOWuiVUTVXXQTy3yc/)
 
